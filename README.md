@@ -1,2 +1,2 @@
-# easybuy.com
-Un diseño de página web
+# easybuy.me
+A very simple web shop page.
